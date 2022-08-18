@@ -1,4 +1,4 @@
 # Non-Invasive-Video-Analysis-Technique-for-Detecting-Sleep-Apnea
 Sleep Apnea is a serious sleep disorder in which breathing starts and stops repeatedly during sleep. If this condition is left untreated, it can lead to serious health issues. This project proposes a robust method for detecting sleep apnea and keeping track of the region of interest automatically. The methodology involves converting the captured video into grayscale images, and then apply Gaussian blur and Canny edge detection to detect noise-free edges of the body. Further, the current frame is compared to the previous frame to detect body movements accurately. The proposed method is experimented with different testing conditions to demonstrate its efficiency and accuracy in identifying sleep apnea. This project also introduces a novel algorithm for automatically adjusting the region of interest within the frame. Furthermore, the advantages and limitations of the proposed algorithm are also been discussed.
-<u>
-Keywords: Obstructive Sleep Apnea, Gaussian blur, Canny-Edge detection, contour detection, absolute frame difference, object detection.
+#
+**Keywords:** Obstructive Sleep Apnea, Gaussian blur, Canny-Edge detection, contour detection, absolute frame difference, object detection.
